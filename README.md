@@ -1,3 +1,4 @@
-This is the latest version of Jcode.
+##Welcome to the Jcode Github Repo!
+Inside of this repo contains the source code for the latest version of the Jcode program.
 
-The README is in progress.
+The README is currently in progress.
