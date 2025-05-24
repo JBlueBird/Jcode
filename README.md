@@ -53,3 +53,11 @@ We're always looking to improve Jcode! If you encounter any bugs, have feature s
 ## 📄 License
 
 This project is licensed under the GNU Affero General Public License (https://www.gnu.org/licenses/)
+
+---
+
+Jcode Website: https://jcode-official.neocities.org
+
+Jcode Credits: https://jcode-official.neocities.org/credits
+
+Jcode RSS: https://jcode-official.neocities.org/rss.xml
