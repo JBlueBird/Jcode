@@ -1,6 +1,6 @@
 # Jcode
 
-![Jcode Logo](assets/logo.png) Jcode is an engaging and intuitive block-based coding platform designed specifically for young learners and aspiring developers. Built upon the robust foundation of Snap! (formerly BYOB), Jcode provides a creative and interactive environment where users can learn fundamental programming concepts, build exciting projects, and share their creations with a vibrant community.
+Jcode is an engaging and intuitive block-based coding platform designed specifically for young learners and aspiring developers. Built upon the robust foundation of Snap! (formerly BYOB), Jcode provides a creative and interactive environment where users can learn fundamental programming concepts, build exciting projects, and share their creations with a vibrant community.
 
 Our mission is to make coding accessible, fun, and rewarding, empowering the next generation of innovators to bring their ideas to life through code.
 
