@@ -7832,7 +7832,7 @@ IDE_Morph.prototype.looksMenuData = function () {
 
     empty.render = nop;
 
-    /*menu.addItem(
+    menu.addItem(
         [
             MorphicPreferences.isFlat || IDE_Morph.prototype.isBright ? empty
                 : tick,
@@ -7861,7 +7861,7 @@ IDE_Morph.prototype.looksMenuData = function () {
         'uncheck for default\nGUI design',
         'check for alternative\nGUI design',
         false
-    );*/
+    );
     menu.addPreference(
         'Bright theme',
         () => {
